@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\TRAINING_2024\\Asoft_Web_ComponentOne\\Docking2\\WebComponetOne.csproj": {}
+  },
+  "projects": {
+    "E:\\TRAINING_2024\\Asoft_Web_ComponentOne\\Docking2\\WebComponetOne.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\TRAINING_2024\\Asoft_Web_ComponentOne\\Docking2\\WebComponetOne.csproj",
+        "projectName": "Docking2",
+        "projectPath": "E:\\TRAINING_2024\\Asoft_Web_ComponentOne\\Docking2\\WebComponetOne.csproj",
+        "packagesPath": "C:\\Users\\ANTi\\.nuget\\packages\\",
+        "outputPath": "E:\\TRAINING_2024\\Asoft_Web_ComponentOne\\Docking2\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\MESCIUS\\ComponentOne\\WinForms\\bin\\v8\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ANTi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ComponentOne.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\MESCIUS\\ComponentOne\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "C1.Zip": {
+              "target": "Package",
+              "version": "[2.0.20233.3, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
